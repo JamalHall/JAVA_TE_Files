@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/08_Collections_Part_2.iml" filepath="$PROJECT_DIR$/.idea/08_Collections_Part_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-final/algorithm_complexity/algorithm-complexity-lecture.iml" filepath="$PROJECT_DIR$/lecture-final/algorithm_complexity/algorithm-complexity-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial-student/m01d08-collections-part-2-tutorial.iml" filepath="$PROJECT_DIR$/tutorial-student/m01d08-collections-part-2-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-student/m01d08-collections-part2-exercise.iml" filepath="$PROJECT_DIR$/exercise-student/m01d08-collections-part2-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instructor/m01d08-collections-part2-instructor.iml" filepath="$PROJECT_DIR$/instructor/m01d08-collections-part2-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-student/m01d08-collections-part2-lecture.iml" filepath="$PROJECT_DIR$/lecture-student/m01d08-collections-part2-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-final/sets_and_maps/m01d08-collections-part2-lecture-final.iml" filepath="$PROJECT_DIR$/lecture-final/sets_and_maps/m01d08-collections-part2-lecture-final.iml" />
+    </modules>
+  </component>
+</project>

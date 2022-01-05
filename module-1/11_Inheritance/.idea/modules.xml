@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/11_Inheritance.iml" filepath="$PROJECT_DIR$/.idea/11_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-student/m01d11-inheritance-exercises.iml" filepath="$PROJECT_DIR$/exercise-student/m01d11-inheritance-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instructor/m01d11-inheritance-instructor.iml" filepath="$PROJECT_DIR$/instructor/m01d11-inheritance-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-student/m01d11-inheritance-lecture.iml" filepath="$PROJECT_DIR$/lecture-student/m01d11-inheritance-lecture.iml" />
+    </modules>
+  </component>
+</project>

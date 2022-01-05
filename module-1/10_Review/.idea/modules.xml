@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/10_Review.iml" filepath="$PROJECT_DIR$/.idea/10_Review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/extra-exercise-optional/m01-week-2-review.iml" filepath="$PROJECT_DIR$/extra-exercise-optional/m01-week-2-review.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-student/m01d10-week2-review-books.iml" filepath="$PROJECT_DIR$/lecture-student/m01d10-week2-review-books.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-final/m01d10-week2-review-books-final.iml" filepath="$PROJECT_DIR$/lecture-final/m01d10-week2-review-books-final.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/09_Classes_Encapsulation.iml" filepath="$PROJECT_DIR$/.idea/09_Classes_Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial-student/m01d09-classes-encapsulation-tutorial.iml" filepath="$PROJECT_DIR$/tutorial-student/m01d09-classes-encapsulation-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-student/m01d09-oop-with-encapsulation-exercise.iml" filepath="$PROJECT_DIR$/exercise-student/m01d09-oop-with-encapsulation-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instructor/m01d09-oop-with-encapsulation-instructor.iml" filepath="$PROJECT_DIR$/instructor/m01d09-oop-with-encapsulation-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-student/m01d09-oop-with-encapsulation-lecture.iml" filepath="$PROJECT_DIR$/lecture-student/m01d09-oop-with-encapsulation-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-final/m01d09-oop-with-encapsulation-lecture-final.iml" filepath="$PROJECT_DIR$/lecture-final/m01d09-oop-with-encapsulation-lecture-final.iml" />
+    </modules>
+  </component>
+</project>

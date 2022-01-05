@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c20aaaa-2bbc-41ee-8bdb-d635d8df54cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../m1-assessment/src/main/java/com/techelevator/FlowerShopOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../m1-assessment/src/main/java/com/techelevator/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../05_Command_Line_Programs/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../05_Command_Line_Programs/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-student/src/main/java/com/techelevator/SquareWall.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-student/src/main/java/com/techelevator/SquareWall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercise-student/src/main/java/com/techelevator/SquareWall2.java" beforeDir="false" afterPath="$PROJECT_DIR$/exercise-student/src/main/java/com/techelevator/SquareWall2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Unit_Testing/exercise-student/src/test/java/com/techelevator/AnimalGroupNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Unit_Testing/exercise-student/src/test/java/com/techelevator/AnimalGroupNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Unit_Testing/exercise-student/src/test/java/com/techelevator/CigarPartyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Unit_Testing/exercise-student/src/test/java/com/techelevator/CigarPartyTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_Unit_Testing/exercise-student/src/test/java/com/techelevator/DateFashionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../14_Unit_Testing/exercise-student/src/test/java/com/techelevator/DateFashionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../m1-assessment/src/main/java/com/techelevator/Module1CodingAssessment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../m1-assessment/src/main/java/com/techelevator/Module1CodingAssessment.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ysZMsCYfLRgsiRckiOa5z9ebj9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="All in m01d13-inheritance-part2-exercise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="m01d13-inheritance-part2-exercise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in m01d13-inheritance-part2-exercise" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c20aaaa-2bbc-41ee-8bdb-d635d8df54cb" name="Changes" comment="" />
+      <created>1633042212732</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633042212732</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

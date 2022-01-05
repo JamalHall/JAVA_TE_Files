@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="m01d12-polymorphism-lecture-final" />
+        <module name="m01d12-polymorphism-instructor" />
+        <module name="m01d12-polymorphism-exercise" />
+        <module name="m01d12-polymorphism-lecture" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="m01d12-polymorphism-exercise" target="11" />
+      <module name="m01d12-polymorphism-instructor" target="11" />
+      <module name="m01d12-polymorphism-lecture" target="11" />
+      <module name="m01d12-polymorphism-lecture-final" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

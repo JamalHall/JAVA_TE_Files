@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Polymorphism-pair-exercise/m01d15-polymorphism-pair-exercises.iml" filepath="$PROJECT_DIR$/Polymorphism-pair-exercise/m01d15-polymorphism-pair-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/team0-java-blue-week03-pair-exercises.iml" filepath="$PROJECT_DIR$/.idea/team0-java-blue-week03-pair-exercises.iml" />
+    </modules>
+  </component>
+</project>

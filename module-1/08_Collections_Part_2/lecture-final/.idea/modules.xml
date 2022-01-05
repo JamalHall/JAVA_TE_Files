@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithm_complexity/algorithm-complexity-lecture.iml" filepath="$PROJECT_DIR$/algorithm_complexity/algorithm-complexity-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lecture-final.iml" filepath="$PROJECT_DIR$/.idea/lecture-final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sets_and_maps/m01d08-collections-part2-lecture-final.iml" filepath="$PROJECT_DIR$/sets_and_maps/m01d08-collections-part2-lecture-final.iml" />
+    </modules>
+  </component>
+</project>

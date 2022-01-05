@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/14_Unit_Testing.iml" filepath="$PROJECT_DIR$/.idea/14_Unit_Testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-student/m01d14-unit-testing-exercise.iml" filepath="$PROJECT_DIR$/exercise-student/m01d14-unit-testing-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instructor/m01d14-unit-testing-instructor.iml" filepath="$PROJECT_DIR$/instructor/m01d14-unit-testing-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/student-lecture/m01d14-unit-testing-lecture.iml" filepath="$PROJECT_DIR$/student-lecture/m01d14-unit-testing-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-final/m01d14-unit-testing-lecture-final.iml" filepath="$PROJECT_DIR$/lecture-final/m01d14-unit-testing-lecture-final.iml" />
+    </modules>
+  </component>
+</project>

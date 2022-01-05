@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/07_Collections_Part_1.iml" filepath="$PROJECT_DIR$/.idea/07_Collections_Part_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tutorial-student/m01d07-collections-part-1-tutorial.iml" filepath="$PROJECT_DIR$/tutorial-student/m01d07-collections-part-1-tutorial.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercise-student/m01d07-collections-part1-exercise.iml" filepath="$PROJECT_DIR$/exercise-student/m01d07-collections-part1-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instructor/m01d07-collections-part1-instructor.iml" filepath="$PROJECT_DIR$/instructor/m01d07-collections-part1-instructor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-student/m01d07-collections-part1-lecture.iml" filepath="$PROJECT_DIR$/lecture-student/m01d07-collections-part1-lecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lecture-final/m01d07-collections-part1-lecture-final.iml" filepath="$PROJECT_DIR$/lecture-final/m01d07-collections-part1-lecture-final.iml" />
+    </modules>
+  </component>
+</project>
